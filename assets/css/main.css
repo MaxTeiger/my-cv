@@ -146,6 +146,10 @@ body, input, select, textarea {
 	line-height: 1.65;
 }
 
+.language-button {
+	border-bottom: none;
+}
+
 /* Here you can change how links (and all of the other basic elements) look */
 a {
 	-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
